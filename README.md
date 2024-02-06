@@ -10,10 +10,3 @@ This project is an Interactive NLP-based AI System designed to engage users in s
 - **Identity Management**: Recognizes and stores user's personal information for personalized interactions.
 - **Intent Matching**: Predicts and responds to the user's intent for a seamless conversational flow.
 
-## Installation
-To get started with this project, clone the repository and install the required dependencies.
-```bash
-git clone https://github.com/yourusername/yourprojectname.git
-cd yourprojectname
-pip install -r requirements.txt
-
